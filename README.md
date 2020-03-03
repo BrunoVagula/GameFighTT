@@ -1,2 +1,3 @@
 # GameFighTT
-FIGHTT
+FIGHTT 
+TEXTO 
